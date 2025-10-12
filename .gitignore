@@ -1,0 +1,12 @@
+# 排除包含Token的脚本
+upload-to-github.bat
+fix-and-upload.bat
+强制上传.bat
+安全上传.bat
+
+# 排除Git文件
+.git/
+
+# 排除临时文件
+*.tmp
+*.log
